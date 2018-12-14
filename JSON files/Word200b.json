@@ -1,6 +1,7 @@
 {
   "name" : "Word200",
   "size" : 200,
+  "lines" : [
     {
       "command" : "Calculate",
       "burst" : 5,
