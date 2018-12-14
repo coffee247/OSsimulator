@@ -1,0 +1,56 @@
+{
+  "name" : "Word200",
+  "size" : 200,
+  "lines" : [
+    {
+      "command" : "Output",
+      "burst" : 23,
+      "output" : "Hello World"
+    },
+    {
+      "command" : "Output",
+      "burst" : 1,
+      "output" : "Hello World"
+    },
+	{
+      "command" : "Calculate",
+      "burst" : 10,
+      "output" : ""
+    },
+    {
+      "command" : "IO",
+      "burst" : 10,
+      "output" : ""
+    },
+    {
+      "command" : "Calculate",
+      "burst" : 5,
+      "output" : ""
+    },
+	{
+      "command" : "IO",
+      "burst" : 1,
+      "output" : ""
+    },
+    {
+      "command" : "Output",
+      "burst" : 23,
+      "output" : "Hello World"
+    },
+    {
+      "command" : "Output",
+      "burst" : 1,
+      "output" : "Hello World"
+    },
+	{
+      "command" : "Calculate",
+      "burst" : 10,
+      "output" : ""
+    },
+    {
+      "command" : "IO",
+      "burst" : 10,
+      "output" : ""
+    }
+  ]
+}
