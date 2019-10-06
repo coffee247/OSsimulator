@@ -5,7 +5,7 @@ C++ using QT Creator IDE.  QT version 5.11.2
 
 
 # How to run the Operating System Simulation 
-(LINUX version)
+## *(LINUX version)*
 
 1.  Download the archive titled ["OS_SIM_RELEASE.tar.xz"](https://github.com/coffee247/OSsimulator/raw/master/Release/OS_SIM_RELEASE.tar.xz) Click link to download.
 2.  Extract the archive
