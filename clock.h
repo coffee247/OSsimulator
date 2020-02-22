@@ -3,7 +3,7 @@
 
 #include <QObject>
 #include <QTimer>
-#include <Thread>
+#include <QThread>
 
 class Clock : public QObject
 {
