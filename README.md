@@ -20,4 +20,6 @@ C++ using QT Creator IDE.  QT version 5.11.2
 5.  The open application will look like the image below.
 6.  During program execution, click on the "Load Files" button, then navigate one level up to the folder titled "JSON files" to select JSON "programs" to run in the OS.
 
+[CLICK ME: YouTube video of program running](https://youtu.be/crt1msBpVeE)
+
 <img src="https://github.com/coffee247/OSsimulator/blob/master/Screenshot%20from%202019-10-05%2022-05-24.png">
